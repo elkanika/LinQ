@@ -1,0 +1,15 @@
+D:\ProyectosProgramacion\C#\LinQ\bin\Debug\net7.0\LinQ.exe
+D:\ProyectosProgramacion\C#\LinQ\bin\Debug\net7.0\LinQ.deps.json
+D:\ProyectosProgramacion\C#\LinQ\bin\Debug\net7.0\LinQ.runtimeconfig.json
+D:\ProyectosProgramacion\C#\LinQ\bin\Debug\net7.0\LinQ.dll
+D:\ProyectosProgramacion\C#\LinQ\bin\Debug\net7.0\LinQ.pdb
+D:\ProyectosProgramacion\C#\LinQ\obj\Debug\net7.0\LinQ.csproj.AssemblyReference.cache
+D:\ProyectosProgramacion\C#\LinQ\obj\Debug\net7.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosProgramacion\C#\LinQ\obj\Debug\net7.0\LinQ.AssemblyInfoInputs.cache
+D:\ProyectosProgramacion\C#\LinQ\obj\Debug\net7.0\LinQ.AssemblyInfo.cs
+D:\ProyectosProgramacion\C#\LinQ\obj\Debug\net7.0\LinQ.csproj.CoreCompileInputs.cache
+D:\ProyectosProgramacion\C#\LinQ\obj\Debug\net7.0\LinQ.dll
+D:\ProyectosProgramacion\C#\LinQ\obj\Debug\net7.0\refint\LinQ.dll
+D:\ProyectosProgramacion\C#\LinQ\obj\Debug\net7.0\LinQ.pdb
+D:\ProyectosProgramacion\C#\LinQ\obj\Debug\net7.0\LinQ.genruntimeconfig.cache
+D:\ProyectosProgramacion\C#\LinQ\obj\Debug\net7.0\ref\LinQ.dll
